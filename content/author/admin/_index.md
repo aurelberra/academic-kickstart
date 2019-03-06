@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Aurélien Berra"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,23 +9,22 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Maître de conférences in Ancient Greek and Digital Humanities"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "Université Paris-Nanterre", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include…"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "aurelien.berra@parisnanterre.fr"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Ancient Greek",
+  "Digital Humanities"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -56,32 +55,44 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  # link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:aurelien.berra@parisnanterre.fr?subject='Depuis le site blogdown'"
 
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "https://twitter.com/aurelberra"
+
+# [[social]]
+#   icon = "google-scholar"
+#   icon_pack = "ai"
+#   link = "https://scholar.google.co.uk/citations?user=XXX"
 
 [[social]]
-  icon = "google-scholar"
+  icon = "orcid"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://orcid.org/0000-0002-1695-8497"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/aurelberra"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
+[[social]]
+  icon = "cv"
+  icon_pack = "ai"
+  link = "files/aurelien_berra_cv.pdf"
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Aurélien Berra is Associate Professor at Paris-Nanterre University, where he teaches Rhetoric, Ancient Greek literature and Digital Humanities.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+His research interests include classical and digital textual scholarship, as well as the history, epistemology and pedagogy of DH. He is in charge of the seminar “Digital Humanities. Les transformations numériques du rapport aux savoirs” at the École des hautes études en sciences sociales, in Paris. He is also involved in Hypotheses, a blogging platform for the Human and Social Sciences, in the European Digital Research Infrastructure for the Arts and Humanities (DARIAH), in Humanistica, the French-speaking association of digital humanities and in the European Association for Digital Humanities (EADH). 
+
+CV: http://aurelienberra.org/cv
+
+*Philologie à venir*: http://philologia.hypotheses.org
+
+@aurelberra: http://twitter.com/aurelberra
